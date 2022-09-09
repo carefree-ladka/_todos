@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "todoId": 1,
+      "todo": "Walk the dog"
+    },
+    {
+      "todoId": 2,
+      "todo": "Watch The last scout boy"
+    },
+    {
+      "todoId": 3,
+      "todo": "Code all day "
+    }
+  ]
+}
